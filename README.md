@@ -1,6 +1,6 @@
 # 🛡️ PWM — A Minimalist FOSS Password Manager (macOS + Linux)
 
-**PWM** is a terminal-based, SQLCipher-encrypted password manager written in Bash.
+**PWM** is a Dmenu Driven, SQLCipher-encrypted password manager written in Bash.
 It prioritizes simplicity, full local control, and cross-platform compatibility — built to be clean, auditable, and usable offline on **macOS** and **Linux**.
 
 ---
