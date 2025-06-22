@@ -1,0 +1,11 @@
+# sensitive configs and secrets
+config.sh
+*.docx
+key.jpg
+passkey
+rainbows.docx
+# system stuff
+.DS_Store
+*.swp
+*.bak
+Backups/
