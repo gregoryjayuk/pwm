@@ -166,6 +166,10 @@ Run it:
 
 ---
 
+### 7. Usage
+
+Use "add" "del" in the schoose site menu to add and delete passwords (only on Linux, MacOS in read only)
+
 ## 🔁 Backups
 
 Back up at least:
